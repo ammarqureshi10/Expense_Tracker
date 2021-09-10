@@ -1,2 +1,2 @@
-# expense_tracker
-Created with CodeSandbox
+# Expense Tracker App
+Using ContextApi and reducer
